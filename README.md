@@ -1,8 +1,8 @@
 ### Hello Everyone, Ashwani Goyal here!👋
 
 
-- 🔭 I’m currently working on College Project
-- 🌱 I’m currently learning Android Development
+- 🔭 I’m currently working as a Software Engineer Trainee at Damco Solutions Pvt. Ltd.
+- 🌱 I’m working as a NodeJs Developer
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
