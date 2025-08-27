@@ -1,7 +1,7 @@
 ### Hello Everyone, Ashwani Goyal here!👋
 
 
-- 🔭 I’m currently working as a Software Engineer Trainee at Damco Solutions Pvt. Ltd.
+- 🔭 I’m currently working as a Software Engineer I at Damco Solutions Pvt. Ltd.
 - 🌱 I’m working as a NodeJs Developer
 <!--
 - 👯 I’m looking to collaborate on ...
